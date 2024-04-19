@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoydTheGreat
-- discover the pongit
+- discover the pong it
 - on 1998
 - iya pong it
 - iya man lukit
