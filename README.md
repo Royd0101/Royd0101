@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @RoydTheGreat
-- discover the pong it
-- on 1998
-- iya pong it
-- iya man lukit
+- 👋 Hi, I’m Royd
+- A Backend Developer
 
 <!---
 Royd0101/Royd0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
