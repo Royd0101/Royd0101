@@ -23,6 +23,13 @@
     Working with microservices architecture
     Enhancing API security and performance optimization
 
-💼 Connect with Me
+### 💼 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-contact%40example.com-blue?style=for-the-badge&logo=gmail)](mailto:contact@example.com)
 
-📊 GitHub Stats
+### 📊 GitHub Stats
+![Royd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical)
+
+<!---
+Royd0101/Royd0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
