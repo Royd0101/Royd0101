@@ -1,6 +1,6 @@
 👋 Hi, I'm Royd!
 
-Django Badge Django REST Framework Badge
+
 🌐 About Me
 
     Backend Developer specializing in Django and Django REST Framework
@@ -10,7 +10,7 @@ Django Badge Django REST Framework Badge
 🛠️ Technologies & Tools
 
     Languages: Python, SQL
-    Frameworks: Django Badge Django REST Framework Badge
+    Frameworks: ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Django REST Framework Badge](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
     Database Management: PostgreSQL, MySQL, SQLite
     Version Control: Git, GitHub
     Other Tools: Docker, Postman, Celery, Redis
