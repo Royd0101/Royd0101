@@ -28,6 +28,8 @@
 
 ### 📊 GitHub Stats
 ![Royd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical)
+![Royd's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Royd0101&theme=github-dark)
+
 
 <!---
 Royd0101/Royd0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
