@@ -28,7 +28,8 @@
 
 ### 📊 GitHub Stats
 ![Royd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical)
-![Royd's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Royd0101&theme=github-dark)
+[![Viber Badge](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://add?number=09383400563)
+
 
 
 
