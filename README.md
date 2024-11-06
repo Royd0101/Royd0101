@@ -23,9 +23,6 @@
     Working with microservices architecture
     Enhancing API security and performance optimization
 
-###  ❤ Donate here.
-[![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mangazeen@gmail.com)
-
 
 ### 💼 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-contact%40example.com-blue?style=for-the-badge&logo=gmail)](mailto:catalunesroy@gmail.com)
