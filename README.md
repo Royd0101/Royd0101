@@ -3,9 +3,9 @@
 
 🌐 About Me
 
-    Backend Developer specializing in Django and Django REST Framework
+    Backend Developer that uses Django and Django REST Framework
     Passionate about building robust, scalable applications
-    I love writing clean, efficient code and enjoy solving complex problems
+    
 
 🛠️ Technologies & Tools
 
@@ -29,6 +29,7 @@
 ### 📊 GitHub Stats
 ![Royd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical)
 ![Royd's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Royd0101&theme=github-dark)
+
 
 
 <!---
