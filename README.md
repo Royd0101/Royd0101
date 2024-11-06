@@ -24,8 +24,7 @@
     Enhancing API security and performance optimization
 
 ### 💼 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-contact%40example.com-blue?style=for-the-badge&logo=gmail)](mailto:contact@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-contact%40example.com-blue?style=for-the-badge&logo=gmail)](mailto:catalunesroy@gmail.com)
 
 ### 📊 GitHub Stats
 ![Royd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical)
