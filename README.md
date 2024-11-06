@@ -10,7 +10,7 @@ Django Badge Django REST Framework Badge
 🛠️ Technologies & Tools
 
     Languages: Python, SQL
-    Frameworks: Django, Django REST Framework
+    Frameworks: Django Badge Django REST Framework Badge
     Database Management: PostgreSQL, MySQL, SQLite
     Version Control: Git, GitHub
     Other Tools: Docker, Postman, Celery, Redis
@@ -24,5 +24,3 @@ Django Badge Django REST Framework Badge
 💼 Connect with Me
 
 📊 GitHub Stats
-
-<!--- Royd0101/Royd0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
