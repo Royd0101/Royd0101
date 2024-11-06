@@ -25,10 +25,11 @@
 
 ### 💼 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-contact%40example.com-blue?style=for-the-badge&logo=gmail)](mailto:catalunesroy@gmail.com)
+[![Viber Badge](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://add?number=09383400563)
 
 ### 📊 GitHub Stats
 ![Royd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical)
-[![Viber Badge](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://add?number=09383400563)
+
 
 
 
