@@ -4,7 +4,7 @@
 🌐 About Me
 
     Backend Developer that uses Django and Django REST Framework
-    Passionate about building robust, scalable applications
+    Passionate about building nonsense applications
     
 
 🛠️ Technologies & Tools
