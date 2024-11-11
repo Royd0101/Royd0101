@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats
 ![Royd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical)
 <!-- Snake animation -->
-![GitHub Snake Animation](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/your_username/Royd0101/blob/output/github-contribution-grid-snake.svg)
 
 
 
