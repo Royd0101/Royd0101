@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats
 ![Royd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical)
 
-<img src="https://wallpapers-clan.com/wp-content/uploads/2022/08/meme-gif-pfp-9.gif" alt="New Meme GIF
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2llYXZrdjR2OGF4MGx2eTk0ZDVldTh2bjk5amNta29uaXFvejN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qMZd8saVx9uHDo2R5L/giphy.gif
 
 
 
