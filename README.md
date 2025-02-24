@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 ![Royd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical)
 
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2llYXZrdjR2OGF4MGx2eTk0ZDVldTh2bjk5amNta29uaXFvejN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qMZd8saVx9uHDo2R5L/giphy.gif
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2llYXZrdjR2OGF4MGx2eTk0ZDVldTh2bjk5amNta29uaXFvejN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qMZd8saVx9uHDo2R5L/giphy.gif">
 
 
 
