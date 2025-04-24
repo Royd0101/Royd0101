@@ -1,7 +1,7 @@
 👋 Hi, I'm Royd! 
 
 
-🌐 About Me !
+🌐 About Me - !
 
     Backend Developer that uses Django and Django REST Framework
     Passionate about building nonsense applications
