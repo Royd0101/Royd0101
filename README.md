@@ -1,4 +1,4 @@
-👋 Hi, I'm Royd! 
+👋 Hi, I'm Roydi! 
 
 
 🌐 About Me - !
