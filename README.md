@@ -30,24 +30,27 @@
   ## 🛠️  Tech Stack
 
   **Languages**
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=
   python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgr
-  esql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
   **Frameworks**
+
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=
   django&logoColor=green)
   ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&l
   ogo=django&logoColor=white)
 
   **Databases**
+
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-bad
   ge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=
   sqlite&logoColor=white)
 
   **Tools & Platforms**
+
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&lo
   goColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=
@@ -74,14 +77,15 @@
   <p align="center">
     <img height="180em" 
   src="https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=t
-  rue&theme=radical&include_all_commits=true&count_private=true" />
+  rue&theme=radical&include_all_commits=true&count_private=true" alt="Royd0101 
+  GitHub stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-lang
-  s/?username=Royd0101&layout=compact&theme=radical" />
+  s/?username=Royd0101&layout=compact&theme=radical" alt="Top languages" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Royd0101&th
-  eme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Royd0101&theme=radical" 
+  alt="GitHub Streak" />
   </p>
 
   ---
@@ -90,19 +94,19 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-catalunesroy%40gmail.com-D14836?s
   tyle=for-the-badge&logo=gmail&logoColor=white)](mailto:catalunesroy@gmail.com)
-  [![Viber](https://img.shields.io/badge/Viber-685EA9?style=for-the-badge&logo=v
-  iber&logoColor=white)](viber://add?number=09383400563)
+  [![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge)](vibe
+  r://add?number=09383400563)
 
   ---
 
   <p align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2llYXZrdjR2OGF4
   MGx2eTk0ZDVldTh2bjk5amNta29uaXFvejN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw
-  /qMZd8saVx9uHDo2R5L/giphy.gif" width="400" />
+  /qMZd8saVx9uHDo2R5L/giphy.gif" width="400" alt="coding gif" />
   </p>
 
-  <p align="center"><em>“Code is like humor. When you have to explain it, it’s
-  bad.” — Cory House</em></p>
+  <p align="center"><em>"Code is like humor. When you have to explain it, it's
+  bad." — Cory House</em></p>
 
   <!--
   Royd0101/Royd0101 is a ✨ special ✨ repository because its `README.md` (this
