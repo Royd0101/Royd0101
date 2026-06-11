@@ -1,18 +1,7 @@
-<h1 align="center">👋 Hi, I'm Roydi!</h1>
+<h1 align="center">👋 Hi, I'm Royd!</h1>
 
   <p align="center">
     <em>Backend Developer • Django & DRF • API craftsman</em>
-  </p>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause
-  =1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;
-  Django+%7C+DRF+%7C+PostgreSQL;Building+scalable+APIs" alt="Typing SVG" />
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Royd0101&style=for-the-badge&c
-  olor=blueviolet" alt="profile views"/>
   </p>
 
   ---
@@ -31,37 +20,31 @@
 
   **Languages**
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=
-  python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+  https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white
 
   **Frameworks**
 
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=
-  django&logoColor=green)
-  ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&l
-  ogo=django&logoColor=white)
+  https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+  https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+  https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white
+  
 
   **Databases**
 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-bad
-  ge&logo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=
-  sqlite&logoColor=white)
+  https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
+  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
   **Tools & Platforms**
 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&lo
-  goColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=
-  github&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&log
-  o=postman&logoColor=white)
-  ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=
-  celery&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=re
-  dis&logoColor=white)
+  https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white
+  https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+  https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
+  https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white
+  https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
 
+    
   ---
 
   ## 🚀 Current Focus
@@ -92,10 +75,7 @@
 
   ## 💼 Connect with Me
 
-  [![Gmail](https://img.shields.io/badge/Gmail-catalunesroy%40gmail.com-D14836?s
-  tyle=for-the-badge&logo=gmail&logoColor=white)](mailto:catalunesroy@gmail.com)
-  [![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge)](vibe
-  r://add?number=09383400563)
+  https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white
 
   ---
 
