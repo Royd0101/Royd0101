@@ -1,96 +1,93 @@
-<h1 align="center">👋 Hi, I'm Royd!</h1>
+# 👋 Hi, I'm Royd!
 
-  <p align="center">
-    <em>Backend Developer • Django & DRF • API craftsman</em>
-  </p>
+<p align="center">
+  <em>Backend Developer • Django & Django REST Framework • API Craftsman</em>
+</p>
 
-  ---
+---
 
-  ## 🌐 About Me
+## 🌐 About Me
 
-  - 🔭 Backend Developer working with **Django** and **Django REST Framework**
-  - 🛠️  Passionate about building reliable, scalable web applications
-  - 🌱 Always learning — currently deepening my knowledge of microservices and
-  API performance
-  - 💬 Ask me about Django, DRF, PostgreSQL, or REST API design
+* 🔭 Backend Developer specializing in **Django** and **Django REST Framework**
+* 🛠️ Passionate about building reliable, scalable web applications
+* 🌱 Currently learning **Microservices Architecture** and **API Performance Optimization**
+* 💬 Ask me about **Django**, **DRF**, **PostgreSQL**, and **REST API Design**
 
-  ---
+---
 
-  ## 🛠️  Tech Stack
+## 🛠️ Tech Stack
 
-  **Languages**
+### Languages
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-  **Frameworks**
+### Frameworks
 
-  https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-  https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
-  https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white
-  
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-  **Databases**
+### Databases
 
-  https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
-  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-  **Tools & Platforms**
+### Tools & Platforms
 
-  https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white
-  https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
-  https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
-  https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white
-  https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Ngrok-140648?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-    
-  ---
+---
 
-  ## 🚀 Current Focus
+## 🚀 Current Focus
 
-  - 🔎 Exploring advanced Django features and third-party integrations
-  - 🧩 Designing systems with **microservices architecture**
-  - 🔐 Improving **API security** and **performance optimization**
+* 🔎 Exploring advanced Django features and third-party integrations
+* 🧩 Designing systems using **Microservices Architecture**
+* 🔐 Improving **API Security** and **Performance Optimization**
+* ☁️ Learning deployment and cloud-native development
 
-  ---
+---
 
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-  <p align="center">
-    <img height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=t
-  rue&theme=radical&include_all_commits=true&count_private=true" alt="Royd0101 
-  GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-lang
-  s/?username=Royd0101&layout=compact&theme=radical" alt="Top languages" />
-  </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Royd0101&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Royd0101&theme=radical" 
-  alt="GitHub Streak" />
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royd0101&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-  ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Royd0101&theme=radical" alt="GitHub Streak" />
+</p>
 
-  ## 💼 Connect with Me
+---
 
-  https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white
+## 💼 Connect With Me
 
-  ---
+<p>
+  <img src="https://img.shields.io/badge/Viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" alt="Viber" />
+</p>
 
-  <p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2llYXZrdjR2OGF4
-  MGx2eTk0ZDVldTh2bjk5amNta29uaXFvejN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw
-  /qMZd8saVx9uHDo2R5L/giphy.gif" width="400" alt="coding gif" />
-  </p>
+---
 
-  <p align="center"><em>"Code is like humor. When you have to explain it, it's
-  bad." — Cory House</em></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qMZd8saVx9uHDo2R5L/giphy.gif" width="400" alt="Coding GIF" />
+</p>
 
-  <!--
-  Royd0101/Royd0101 is a ✨ special ✨ repository because its `README.md` (this
-  file) appears on your GitHub profile.
-  -->
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it's bad."</em><br>
+  — Cory House
+</p>
